@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 I am not ingesting the data in this file bug is fixed.
 master here baby.
+=======
+I am ingesting the data in this file
+master here baby.
+
+
+
+
+Iam fixing this code.
+>>>>>>> development
